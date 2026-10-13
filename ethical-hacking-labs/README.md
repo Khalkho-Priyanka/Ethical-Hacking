@@ -9,7 +9,7 @@ educational purposes.
 | 05 | [Network Traffic Analysis with Wireshark](05-wireshark-traffic-analysis/) | Wireshark 4.6.6, Kali Linux | Packet capture, display filters, protocol analysis, documenting findings |
 
 ## About
-**Yash Rupesh Mali** - MCA student focused on cybersecurity and network analysis.
+**Priyanka M. Khalkho** - MCA student focused on cybersecurity and network analysis.
 
 ## Note
 These are academic exercises, not production security assessments. Raw packet
