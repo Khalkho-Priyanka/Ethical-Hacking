@@ -1,4 +1,4 @@
-# Lab 05 - Network Traffic Analysis with Wireshark
+# Network Traffic Analysis with Wireshark
 
 Academic lab (Ethical Hacking Lab, Sem III) performed on Kali Linux in an
 authorized, self-owned virtual environment.
