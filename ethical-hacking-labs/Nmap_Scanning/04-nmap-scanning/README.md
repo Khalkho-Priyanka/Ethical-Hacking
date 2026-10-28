@@ -1,4 +1,4 @@
-# Lab 04 - Host Discovery and Port Scanning with Nmap
+# Host Discovery and Port Scanning with Nmap
 
 Academic lab (Ethical Hacking Lab, Sem III) performed on Windows with
 **Nmap 7.991** against a self-owned lab target.
