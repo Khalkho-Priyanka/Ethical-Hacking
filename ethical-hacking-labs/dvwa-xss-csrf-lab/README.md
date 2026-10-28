@@ -1,4 +1,4 @@
-# Practical 10: XSS & CSRF Testing using DVWA
+XSS & CSRF Testing using DVWA
 
 > **Academic hands-on lab** | MCA (Cyber Security), D. Y. Patil Deemed to be University
 > **Author:** Priyanka M. Khalkho
