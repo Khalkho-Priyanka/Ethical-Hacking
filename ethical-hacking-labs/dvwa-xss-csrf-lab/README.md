@@ -1,8 +1,5 @@
 XSS & CSRF Testing using DVWA
 
-> **Academic hands-on lab** | MCA (Cyber Security), D. Y. Patil Deemed to be University
-> **Author:** Priyanka M. Khalkho
-
 Hands-on testing of **Cross-Site Scripting (XSS)** and **Cross-Site Request Forgery (CSRF)** vulnerabilities in a local, intentionally vulnerable web application (**DVWA**), followed by documented security recommendations.
 
 ---
